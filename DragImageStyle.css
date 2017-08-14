@@ -13,10 +13,12 @@ width: 21px;
 }
 
 .upload{
+.upload{
 width: 118px;
-height: 100px;
-background:url("http://i.imgur.com/LtR9DZ5.png");
-background-repeat: no-repeat;
+height: 40px;
+border: none;
+color: aqua;
+}
 }
 
 .files{
