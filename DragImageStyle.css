@@ -12,12 +12,15 @@ color: white;
 width: 21px;
 }
 
-
 .upload{
-width: 118px;
-height: 40px;
+width: 138px;
+height: 30px;
+background:aqua;
+margin-left: 220px;
+margin-top: 100px;
+color:white;
+padding: 0;
 border: none;
-color: aqua;
 
 }
 
@@ -32,8 +35,9 @@ visibility: hidden;
 }
 
 .ImgDes{
-     border: 1px solid orange;
-    border-radius: 4px;
+     border: 1px solid skyblue;
+     border-radius: 4px;
+     margin-left: 510px;
     
    
 }
