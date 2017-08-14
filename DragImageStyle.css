@@ -1,0 +1,37 @@
+.kk{
+font-family:'Courier New';
+color:darkgray;
+    
+}
+
+.bt1{
+    
+background-color:red;
+border: none;
+color: white;
+width: 21px;
+}
+
+.upload{
+width: 118px;
+height: 100px;
+background:url("http://i.imgur.com/LtR9DZ5.png");
+background-repeat: no-repeat;
+}
+
+.files{
+    
+visibility: hidden;
+}
+
+.outpute{
+ margin-top: 40px;
+ margin-left: 410px;
+}
+
+.ImgDes{
+     border: 1px solid orange;
+    border-radius: 4px;
+    
+   
+}
